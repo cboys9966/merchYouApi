@@ -1,0 +1,85 @@
+.wc_status_container 
+{
+    background: #fff;
+    width: 98.3%;
+    height: 100%;
+    min-height: 480px;
+    max-height: 100%;
+}
+
+.wc_merch_container 
+{
+    background: #fff;
+    width: 98.3%;
+    height: 100%;
+    min-height: 480px;
+    max-height: 100%;
+}
+
+table.wp-list-table.widefat.fixed.striped.posts 
+{
+    width: 98.3%;
+}
+
+table.wp-list-table.widefat.fixed.striped th 
+{
+    padding: 10px !important;
+}
+
+.wc_merch_container form,
+.wc_status_container form 
+{
+    padding: 20px;
+}
+
+input.sku-field 
+{
+    padding: 4px 5px;
+}
+
+.about-merch
+{
+    background: #fff;
+    width: 97.5%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+    margin: 20px 0 0 15px;
+}
+
+.merchant-you-api_page_api-orders td span 
+{
+    color: #545454;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.merchant-you-api_page_api-orders mark.order-status.status-erhalten-rechnung.tips 
+{
+    background: #aa5821;
+    border-radius: 5px;
+    padding: 5px 10px 6px;
+    color: #fff;
+    font-weight: 600;
+}
+
+.merchant-you-api_page_api-orders mark.order-status.status-erhalten-rechnung.tips span
+{
+    color: #fff;
+    font-weight:600;
+}
+
+.merchant-you-api_page_api-orders .widefat td,
+.merchant-you-api_page_api-orders .widefat th 
+{
+    padding: 15px 10px;
+}
+
+.merchant-you-api_page_api-orders .order-failed mark.order-status.status-erhalten-rechnung.tips
+{
+    background: #000;
+    border-radius: 5px;
+    padding: 5px 10px 6px;
+    color: #fff;
+    font-weight: 600;
+}
